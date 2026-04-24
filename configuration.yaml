@@ -1,0 +1,78 @@
+input_text:
+  # --- NEDERSTE RAD (FORAN) ---
+  cng_pod_1:
+    name: Pod 1 (Foran, ytterst venstre)
+    icon: mdi:sprout
+  cng_pod_2:
+    name: Pod 2 (Foran, midtre venstre)
+    icon: mdi:sprout
+  cng_pod_3:
+    name: Pod 3 (Foran, helt i midten)
+    icon: mdi:sprout
+  cng_pod_4:
+    name: Pod 4 (Foran, midtre høyre)
+    icon: mdi:sprout
+  cng_pod_5:
+    name: Pod 5 (Foran, ytterst høyre)
+    icon: mdi:sprout
+
+  # --- ØVERSTE RAD (BAK) ---
+  cng_pod_6:
+    name: Pod 6 (Bak, ytterst venstre)
+    icon: mdi:sprout
+  cng_pod_7:
+    name: Pod 7 (Bak, senter venstre)
+    icon: mdi:sprout
+  cng_pod_8:
+    name: Pod 8 (Bak, senter høyre)
+    icon: mdi:sprout
+  cng_pod_9:
+    name: Pod 9 (Bak, ytterst høyre)
+    icon: mdi:sprout
+    
+input_datetime:
+  pod_1_dato:
+    name: Pod 1 Dato
+    has_date: true
+    has_time: false
+    icon: mdi:calendar
+  pod_2_dato:
+    name: Pod 2 Dato
+    has_date: true
+    has_time: false
+    icon: mdi:calendar
+  pod_3_dato:
+    name: Pod 3 Dato
+    has_date: true
+    has_time: false
+    icon: mdi:calendar
+  pod_4_dato:
+    name: Pod 4 Dato
+    has_date: true
+    has_time: false
+    icon: mdi:calendar
+  pod_5_dato:
+    name: Pod 5 Dato
+    has_date: true
+    has_time: false
+    icon: mdi:calendar
+  pod_6_dato:
+    name: Pod 6 Dato
+    has_date: true
+    has_time: false
+    icon: mdi:calendar
+  pod_7_dato:
+    name: Pod 7 Dato
+    has_date: true
+    has_time: false
+    icon: mdi:calendar
+  pod_8_dato:
+    name: Pod 8 Dato
+    has_date: true
+    has_time: false
+    icon: mdi:calendar
+  pod_9_dato:
+    name: Pod 9 Dato
+    has_date: true
+    has_time: false
+    icon: mdi:calendar
