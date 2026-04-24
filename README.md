@@ -1,8 +1,12 @@
-ClickAndGrow 9 card for Home Assistant
 
+ClickAndGrow 9 card for Home Assistant
+<br>
 Remember what you planted, and when
+<br>
 Ad manual card in Home Assistant and insert code, select a light theme color.
+<br>
 Important: Requires card-mod and button-mod 
+<br>
 The helpers can be placed in configuration.yaml or youre prefered dir_named packages
 
 <img width="1360" height="588" alt="1" src="https://github.com/user-attachments/assets/0fcbe3dd-357c-4596-96d4-42909649e2db" />
